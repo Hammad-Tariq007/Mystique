@@ -9,7 +9,7 @@ export const ShopContext = createContext()
 const ShopContextProvider = props => {
   const currency = '$'
   const deliveryFee = 10
-  const backendUrl = 'http://localhost:4000'
+  const backendUrl = 'https://mystique-api.onrender.com'
   const [search, setSearch] = useState('')
   const [showSearch, setShowSearch] = useState(false)
   const [token, setToken] = useState(null)
