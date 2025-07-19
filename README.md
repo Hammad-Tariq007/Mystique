@@ -54,7 +54,7 @@ Mystique is a modern full-stack eCommerce platform tailored for fashion lovers. 
 <p align="center">
   <img src="homepage.png" alt="Home Page" width="70%" />
   <br/>
-  <img src="colection.png" alt="Product Page" width="70%" />
+  <img src="collection.png" alt="Product Page" width="70%" />
 </p>
 
 ---
@@ -117,7 +117,7 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 📜 License
 MIT License
 
-<p align="center"> Made with ❤️ by <a href="https://github.com/Hammad-Tariq007">Hammad Bin Tariq</a> </p> ```
+<p align="center"> Made with ❤️ by <a href="https://github.com/Hammad-Tariq007">Hammad Bin Tariq</a> </p> 
 
 
 
